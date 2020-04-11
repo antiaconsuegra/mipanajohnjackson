@@ -51,11 +51,11 @@
   }
 }
 
-.console {
+/*.console {
   background: green;
   overflow: hidden;
   .messages {
-    //height: calc(50% - 34px);
+    height: calc(50% - 34px);
     background: lighten($navbar-inverse-bg, 5%);
     overflow-y: scroll;
     padding: 6px;
@@ -84,3 +84,4 @@
     }
   }
 }
+*/
