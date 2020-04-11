@@ -53,7 +53,7 @@ function Game(gameOpts) {
     for (let player of game.players) {
       if (player.score >= game.scoreLimit) {
         player.wins += 1;
-        sendMessage(player.name + ' wins the game!', 'warning');
+        sendMessage(player.name + ' ganó el juego!', 'warning');
         newGame();
         break;
       }
@@ -195,7 +195,7 @@ function Game(gameOpts) {
         players: playerList()
       });
       io.to(player.socketId).emit('message', {
-        text: 'Welcome to ' + game.name + '!',
+        text: 'Bienvenidos a ' + game.name + '!',
         type: 'info'
       });
       deal();
@@ -214,7 +214,7 @@ function Game(gameOpts) {
     var index = util.findIndexByKeyValue(game.players, 'id', playerId);
     if (index >= 0) {
       /* Alert other clients */
-      sendMessage(game.players[index].name + ' has left the game.');
+      sendMessage(game.players[index].name + ' ha salido del juego.');
       /* Remove player answer if exists */
       game.round.removePlayerAnswer(playerId)
       /* Discard hand */
