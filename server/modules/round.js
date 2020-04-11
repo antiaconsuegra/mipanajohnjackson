@@ -131,7 +131,7 @@ function Round(game) {
           prompt: prompt.text,
           wonGame: (winner.score >= game.scoreLimit) ? true : false
         });
-        game.sendMessage(winner.name + ' wins the round!', 'info');
+        game.sendMessage(winner.name + ' ganó la ronda!', 'info');
       }
       cleanup();
       game.newRound();
