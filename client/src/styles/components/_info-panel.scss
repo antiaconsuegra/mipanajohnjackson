@@ -57,7 +57,7 @@
   .messages {
     height: calc(100% - 34px);
     background: lighten($navbar-inverse-bg, 5%);
-    overflow-y: scroll;
+    overflow-y: visible;
     padding: 6px;
     .msg {
       padding-bottom: 3px;
