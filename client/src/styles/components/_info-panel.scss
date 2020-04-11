@@ -53,11 +53,11 @@
 
 .console {
   background: green;
-  overflow: hidden;
+  overflow: scroll;
   .messages {
     height: calc(100% - 34px);
     background: lighten($navbar-inverse-bg, 5%);
-    overflow-y: visible;
+    overflow-y: scroll;
     padding: 6px;
     .msg {
       padding-bottom: 3px;
