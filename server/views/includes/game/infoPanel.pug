@@ -17,7 +17,7 @@
           i.i.fa.fa-trophy(ng-repeat="win in game.getNumber(p.wins) track by $index")
         td.score {{ p.score }}
   .console(ng-controller="ConsoleController as console")
-    .messages(scroll-glue)
+    .messages()
       .msg(ng-repeat="msg in console.messages track by $index" class="{{ msg.type }}")
         span(ng-if="msg.user") {{ msg.user }}: 
         | {{ msg.text }}
