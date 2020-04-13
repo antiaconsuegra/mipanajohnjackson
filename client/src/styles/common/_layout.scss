@@ -32,7 +32,7 @@ html, body {
   display: flex;
   flex-direction: row;
   .scoreboard, .console {
-    overflow: auto;
+    overflow: hidden;
     margin: 0 ($grid-gutter-width / 2);
   }
   .scoreboard {
