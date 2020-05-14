@@ -63,11 +63,11 @@
   }
   &::before {
     left: 0;
-    background: url('../images/answers-mask-left.png') top left no-repeat;
+    //background: url('../images/answers-mask-left.png') top left no-repeat;
   }
   &::after {
     right: 0;
-    background: url('../images/answers-mask-right.png') top right no-repeat;
+    //background: url('../images/answers-mask-right.png') top right no-repeat;
   }
 }
 
