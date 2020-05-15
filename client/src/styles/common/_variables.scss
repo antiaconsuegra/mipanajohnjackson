@@ -2,9 +2,7 @@
 $icon-font-path:                            "../fonts/";
 
 $text-color:                                orange;
-$-webkit-text-stroke:                       4px black;
-$paint-order:                               stroke fill;
-
+$stroke { -webkit-text-stroke: 2px black; }
 //=== Inverted navbar
 // Reset inverted navbar basics
 $navbar-inverse-color:                      #ddd;
