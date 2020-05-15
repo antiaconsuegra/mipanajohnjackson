@@ -1,8 +1,7 @@
 // Glyphicons font path
 $icon-font-path:                            "../fonts/";
 
-$text-color:                                #444;
-$background-color:                          #fff;
+$text-color:                                green;
 //=== Inverted navbar
 // Reset inverted navbar basics
 $navbar-inverse-color:                      #ddd;
@@ -45,7 +44,7 @@ $handleDisabledColor: #d8e0f3;
 $limitLabelTextColor: $labelTextColor;
 $barFillColor: $handleBgColor;
 $barDisabledFillColor: #8b91a2;
-$barNormalColor: #666;
+$barNormalColor: #fff;
 
 $ticksColor: $barNormalColor;
 $selectedTicksColor: $barFillColor;
