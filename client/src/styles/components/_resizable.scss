@@ -1,5 +1,7 @@
 .resizable {
-  position: fixed;
+  position: fixed !important;
+  top: auto !important;
+  bottom: 0 !important;
 }
 .resizable.no-transition {
   transition: none !important;
