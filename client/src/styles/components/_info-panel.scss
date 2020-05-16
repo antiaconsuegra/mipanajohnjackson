@@ -2,6 +2,7 @@
   padding: 1px 0 15px;
   background: $navbar-inverse-bg;
   color: $navbar-inverse-color;
+  overflow: scroll;
   .rg-top {
     background: $navbar-inverse-bg;
     span {
@@ -25,7 +26,6 @@
     width: 20px;
     padding-left: 6px;
     padding-right: 0;
-    overflow: scroll;
     .fa-star {
       color: $brand-danger;
     }
@@ -37,7 +37,6 @@
     &.self {
       font-weight: bold;
       color: $brand-warning;
-      overflow: scroll;
     }
     .fa-trophy {
       color: $brand-warning;
@@ -50,7 +49,6 @@
   td.score, th.score {
     text-align: right;
     width: 50px;
-    overflow: scroll;
   }
 }
 
