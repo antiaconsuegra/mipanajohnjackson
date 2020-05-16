@@ -7,7 +7,6 @@
   overflow-y: scroll;
   .rg-top {
     background: $navbar-inverse-bg;
-    overflow-y: scroll;
     span {
       margin: 5px 0 0 -10px;
       height: 5px;
@@ -17,6 +16,7 @@
 }
 
 .scoreboard {
+  overflow-y: scroll;
   .table>tbody>tr>td,
   .table>tbody>tr>th,
   .table>tfoot>tr>td,
