@@ -3,6 +3,7 @@
   width: 940px;
   margin: 0 auto;
   position: relative;
+  overflow: scroll;
 }
 .resizable.no-transition {
   transition: none !important;
