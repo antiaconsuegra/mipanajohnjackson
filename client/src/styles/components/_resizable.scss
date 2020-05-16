@@ -1,6 +1,8 @@
 .resizable {
-  position:fixed !important;
-  
+  //position:fixed !important;
+  width: 940px;
+  margin: 0 auto;
+  position: relative;
 }
 .resizable.no-transition {
   transition: none !important;
