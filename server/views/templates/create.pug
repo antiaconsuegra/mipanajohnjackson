@@ -67,6 +67,13 @@ Find or build your own decks at http://cardcastgame.com"
       .col-xs-6
         table.table.table-condensed
           thead
+          function toggle(source) {
+              var checkboxes = document.querySelectorAll('input[type="checkbox2"]');
+              for (var i = 0; i < checkboxes.length; i++) {
+                  if (checkboxes[i] != source)
+                      checkboxes[i].checked = source.checked;
+              }
+          }
             th Decks
             th.align-right White
             th.align-right Black
@@ -76,6 +83,7 @@ Find or build your own decks at http://cardcastgame.com"
                 .checkbox     
                   label
                     input(
+                      type="checkbox2" onclick="toggle(this);" />Check all?
                       type="checkbox"
                       value="{{ deck.id }}"
                       ng-checked="create.isChecked(deck.id)"
@@ -89,6 +97,7 @@ Find or build your own decks at http://cardcastgame.com"
                 .checkbox     
                   label
                     input(
+                      type="checkbox2" onclick="toggle(this);" />Check all?
                       type="checkbox"
                       value="{{ deck.code }}"
                       ng-checked="create.isCustomChecked(deck.code)"
