@@ -68,6 +68,9 @@
   ],
   "blackCards": [
     {
+      "text": "",
+      "draw": 0,
+      "pick": 0
     }
   ]
 }
