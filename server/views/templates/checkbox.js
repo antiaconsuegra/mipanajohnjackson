@@ -1,6 +1,14 @@
-$(document).ready(function() {
-  $('input[name="all"],input[name="title"]').bind('click', function() {
-    var status = $(this).is(':checked');
-    $('input[type="checkbox"]', $(this).parent('li')).attr('checked', status);
-  });
-});
+function checkAll(checkId) {
+  var inputs = document.getElementsByTagName("input");
+  for (var i = 0; i < inputs.length; i++) {
+    if (inputs[i].id != checkId) {
+      if (inputs[i].type == "checkbox") {
+        if (inputs[i].checked == true) {
+          inputs[i].checked = false;
+        } else if (inputs[i].checked == false) {
+          inputs[i].checked = true;
+        }
+      }
+    }
+  }
+}
