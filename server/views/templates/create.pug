@@ -80,6 +80,11 @@ Find or build your own decks at http://cardcastgame.com"
                       value="{{ deck.id }}"
                       ng-checked="create.isChecked(deck.id)"
                       ng-click="create.toggleChecked(deck.id)"
+                      script.
+                        var pOptions = document.getElementById('propertyType').options;
+                        for (i=0; i < pOptions.length; i++) {
+                          if (pOptions[i].value == #{property.typeId}) pOptions[i].selected = true;
+                        }
                     )
                     | {{ deck.name }}
               td.align-right {{ deck.whiteCardCount }}
@@ -93,6 +98,11 @@ Find or build your own decks at http://cardcastgame.com"
                       value="{{ deck.code }}"
                       ng-checked="create.isCustomChecked(deck.code)"
                       ng-click="create.toggleCustomChecked(deck.code)"
+                      script.
+                        var pOptions = document.getElementById('propertyType').options;
+                        for (i=0; i < pOptions.length; i++) {
+                          if (pOptions[i].value == #{property.typeId}) pOptions[i].selected = true;
+                        }
                     )
                     | {{ deck.name }}
               td.align-right {{ deck.response_count }}
