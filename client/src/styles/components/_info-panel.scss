@@ -16,7 +16,6 @@
 }
 
 .scoreboard {
-  overflow: scroll{
     .table>tbody>tr>td,
     .table>tbody>tr>th,
     .table>tfoot>tr>td,
@@ -25,7 +24,7 @@
     .table>thead>tr>th {
       border-color: #333;
     }
-  }
+  
   td.status, th.status {
     width: 20px;
     padding-left: 6px;
