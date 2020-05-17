@@ -67,12 +67,12 @@ Find or build your own decks at http://cardcastgame.com"
       .col-xs-6
         table.table.table-condensed
           thead
-          input#all(type='checkbox' name='all')
-          label(for='all') All
             th Decks
             th.align-right White
             th.align-right Black
           tbody
+          input#all(type='checkbox' name='all')
+          label(for='all') All
             tr(ng-repeat="deck in create.decks")
               td
                 .checkbox     
