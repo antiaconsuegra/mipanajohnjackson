@@ -16,14 +16,15 @@
 }
 
 .scoreboard {
-overflow: scroll;
-  .table>tbody>tr>td,
-  .table>tbody>tr>th,
-  .table>tfoot>tr>td,
-  .table>tfoot>tr>th,
-  .table>thead>tr>td,
-  .table>thead>tr>th {
-    border-color: #333;
+  overflow: scroll;{
+    .table>tbody>tr>td,
+    .table>tbody>tr>th,
+    .table>tfoot>tr>td,
+    .table>tfoot>tr>th,
+    .table>thead>tr>td,
+    .table>thead>tr>th {
+      border-color: #333;
+    }
   }
   td.status, th.status {
     width: 20px;
