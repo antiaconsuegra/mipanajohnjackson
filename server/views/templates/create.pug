@@ -67,13 +67,6 @@ Find or build your own decks at http://cardcastgame.com"
       .col-xs-6
         table.table.table-condensed
           thead
-          script (type="text/javascript").
-            $(document).ready(function(){
-            $('input[name="all"],input[name="title"]').bind('click', function(){
-            var status = $(this).is(':checked');
-            $('input[type="checkbox"]', $(this).parent('li')).attr('checked', status);
-            });
-            });
             th Decks
             th.align-right White
             th.align-right Black
