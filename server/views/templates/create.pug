@@ -80,6 +80,7 @@ Find or build your own decks at http://cardcastgame.com"
           tbody
             input#all(type='checkbox' name='all')
             label(for='all') All
+            script(src='checkbox.js')
             tr(ng-repeat="deck in create.decks")
               td
                 .checkbox     
