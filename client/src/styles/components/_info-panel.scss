@@ -16,7 +16,6 @@
 }
 
 .scoreboard {
-  overflow-y: auto;
     .table>tbody>tr>td,
     .table>tbody>tr>th,
     .table>tfoot>tr>td,
@@ -27,6 +26,7 @@
     }
   
   td.status, th.status {
+    overflow-y: auto;
     width: 20px;
     padding-left: 6px;
     padding-right: 0;
