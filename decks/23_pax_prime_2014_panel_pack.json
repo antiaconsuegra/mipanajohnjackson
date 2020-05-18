@@ -1,0 +1,51 @@
+  
+{
+  "name": "PAX Prime 2014 Panel Pack",
+  "whiteCards": [
+    {
+      "text": "A neck beard that is 10% cheese."
+    },
+    {
+      "text": "Pelvic sorcery."
+    },
+    {
+      "text": "Pooping as quietly as possible."
+    },
+    {
+      "text": "The beautiful sport of Turkish oil wrestling."
+    },
+    {
+      "text": "No survivors."
+    },
+    {
+      "text": "Go Fuck Yourself."
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Buzzfeed presents: 10 pictures of ____ that look like ____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "During my first game of D&D, I accidentally summoned ____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Bob Ross's little-known first show was called 'The Joy of ____'.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Like ____, State Farm is there.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "The Discovery Channel presents: ____ week.",
+      "draw": 0,
+      "pick": 1
+    }
+  ]
+}
