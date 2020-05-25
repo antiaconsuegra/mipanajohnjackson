@@ -78,7 +78,7 @@ Find or build your own decks at http://cardcastgame.com"
                     input(
                       type="checkbox"
                       value="{{ deck.id }}"
-                      ng-checked="create.isChecked(deck.id)"
+                      #ng-checked="create.isChecked(deck.id)"
                       ng-click="create.toggleChecked(deck.id)"
                     )
                     | {{ deck.name }}
