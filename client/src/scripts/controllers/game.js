@@ -202,6 +202,7 @@
 
     function setupRound() {
       czarCheck();
+      audio.play('badbunny');
       $ctrl.answered = false;
       $ctrl.playSlots = [];
       $ctrl.roundTimerMax = $ctrl.round.roundTime * 1000;
@@ -212,7 +213,7 @@
           card: false
         });
       }
-      audio.play('badbunny');
+      
     }
 
     function submitAnswer() {
