@@ -212,7 +212,7 @@
           card: false
         });
       }
-      audio.play('warp');
+        audio.play('warp');
     }
 
     function submitAnswer() {
@@ -321,7 +321,7 @@
     function onUpdateGame(data) {
       $log.debug('updateGame', data);
       if ($ctrl.round.state === "open" && data.round.state === "closed") {
-        audio.play('badbunny');
+        audio.play('warp');
       }
       $ctrl.round = data.round;
     }
