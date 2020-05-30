@@ -202,7 +202,6 @@
 
     function setupRound() {
       czarCheck();
-      audio.play('badbunny');
       $ctrl.answered = false;
       $ctrl.playSlots = [];
       $ctrl.roundTimerMax = $ctrl.round.roundTime * 1000;
@@ -213,7 +212,7 @@
           card: false
         });
       }
-      
+      audio.play('warp');
     }
 
     function submitAnswer() {
@@ -322,7 +321,7 @@
     function onUpdateGame(data) {
       $log.debug('updateGame', data);
       if ($ctrl.round.state === "open" && data.round.state === "closed") {
-        audio.play('warp');
+        audio.play('badbunny');
       }
       $ctrl.round = data.round;
     }
