@@ -212,7 +212,7 @@
           card: false
         });
       }
-      audio.play('warp');
+      audio.play('badbunny');
     }
 
     function submitAnswer() {
