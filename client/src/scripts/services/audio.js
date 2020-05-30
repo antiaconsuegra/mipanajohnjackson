@@ -14,6 +14,7 @@
       drip: ngAudio.load('audio/drip.mp3'),
       plink: ngAudio.load('audio/plink.mp3'),
       warp: ngAudio.load('audio/warp.mp3')
+      badbunny: ngAudio.load('audio/badbunny.mp3')
     };
 
     var service = {
