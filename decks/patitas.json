@@ -1,0 +1,715 @@
+{
+  "name": "Patitas",
+  "whiteCards": [
+    {
+      "text": "Papas."
+    },
+    {
+      "text": "Vacas."
+    },
+    {
+      "text": "Queen."
+    },
+    {
+      "text": "Patas."
+    },
+    {
+      "text": "Comunismo."
+    },
+    {
+      "text": "Triple Alianza."
+    },
+    {
+      "text": "Triple Entente."
+    },
+    {
+      "text": "Cantar en chino."
+    },
+    {
+      "text": "Mota."
+    },
+    {
+      "text": "Droga."
+    },
+    {
+      "text": "Happy brownies."
+    },
+    {
+      "text": "Pañales de adulto."
+    },
+    {
+      "text": "Happy brownies."
+    },
+    {
+      "text": "Cambiarle las pilas a las palomas rusas."
+    },
+    {
+      "text": "Grapefruit."
+    },
+    {
+      "text": "Cuchareando al chancho con la cristi."
+    },
+    {
+      "text": "Sobando piernas."
+    },
+    {
+      "text": "En llamas."
+    },
+    {
+      "text": "Globos."
+    },
+    {
+      "text": "Dictadura."
+    },
+    {
+      "text": "Wet dreams."
+    },
+    {
+      "text": "Oompa-Loompas."
+    },
+    {
+      "text": "Dora la exploradora."
+    },
+    {
+      "text": "Ñoquis rana."
+    },
+    {
+      "text": "La panchi."
+    },
+    {
+      "text": "Hotlatinamamasita."
+    },
+    {
+      "text": "Cultos."
+    },
+    {
+      "text": "Inhalar ramitas."
+    },
+    {
+      "text": "Papas horneadas."
+    },
+    {
+      "text": "Las 2P."
+    },
+    {
+      "text": "69."
+    },
+    {
+      "text": "Stalin."
+    },
+    {
+      "text": "Noah Neck."
+    },
+    {
+      "text": "La charli."
+    },
+    {
+      "text": "Glow up."
+    },
+    {
+      "text": "Ding dong."
+    },
+    {
+      "text": "Perrear."
+    },
+    {
+      "text": "Pink dildo."
+    },
+    {
+      "text": "La Cheka."
+    },
+    {
+      "text": "Papitas con ketchup."
+    },
+    {
+      "text": "Suculenta de la cami."
+    },
+    {
+      "text": "Patacones."
+    },
+    {
+      "text": "Darth Vader."
+    },
+    {
+      "text": "Dictadura."
+    },
+    {
+      "text": "Wet dreams."
+    },
+    {
+      "text": "Baby yoda."
+    },
+    {
+      "text": "Captain America."
+    },
+    {
+      "text": "David Dobrik."
+    },
+    {
+      "text": "Nikita dragun."
+    },
+    {
+      "text": "Lightning and thunder."
+    },
+    {
+      "text": "Tony lopez."
+    },
+    {
+      "text": "Grinch."
+    },
+    {
+      "text": "Cindy lu."
+    },
+    {
+      "text": "URSS."
+    },
+    {
+      "text": "Las Palomas."
+    },
+    {
+      "text": "La carola."
+    },
+    {
+      "text": "Los Lit kids."
+    },
+    {
+      "text": "Vértigo."
+    },
+    {
+      "text": "Papas fritas."
+    },
+    {
+      "text": "Papas duquesas."
+    },
+    {
+      "text": "Hotsy pink."
+    },
+    {
+      "text": "UNO."
+    },
+    {
+      "text": "El pelo morado."
+    },
+    {
+      "text": "El pie esguinzado."
+    },
+    {
+      "text": "Gramun."
+    },
+    {
+      "text": "Delegate of South Africa."
+    },
+    {
+      "text": "Discord."
+    },
+    {
+      "text": "Baby isas."
+    },
+    {
+      "text": "Analisis de poemas."
+    },
+    {
+      "text": "Centro de alumnos."
+    },
+    {
+      "text": "The lightning and thunder podcast."
+    },
+    {
+      "text": "Meter un pollito en el microondas para hacer alitas de pollo."
+    },
+    {
+      "text": "La vaca de la cami, aka queen."
+    },
+    {
+      "text": "Ser la madrina de panqueque."
+    },
+    {
+      "text": "El ataque de la Peppa Pig."
+    },
+    {
+      "text": "Gandhi."
+    },
+    {
+      "text": "Jesus."
+    },
+    {
+      "text": "La roxy."
+    },
+    {
+      "text": "Jane the virgin."
+    },
+    {
+      "text": "Hacer bolitas con los mocos."
+    },
+    {
+      "text": "Un minuto de silencio."
+    },
+    {
+      "text": "La teoría del choclo."
+    },
+    {
+      "text": "Pizza con piña."
+    },
+    {
+      "text": "Mcflurry."
+    },
+    {
+      "text": "Un traje del Doctor Simi."
+    },
+    {
+      "text": "Poner los dedos en el enchufe."
+    },
+    {
+      "text": "Darle mar a Bolivia."
+    },
+    {
+      "text": "El lazo de las chicas poderosas."
+    },
+    {
+      "text": "Tu me tratas como trapo."
+    },
+    {
+      "text": "Un lap dance de la cristi."
+    },
+    {
+      "text": "Tomar cloro."
+    },
+    {
+      "text": "Caca con choclo."
+    },
+    {
+      "text": "Pkubah."
+    },
+    {
+      "text": "64 camellos."
+    },
+    {
+      "text": "Ranking de papas."
+    },
+    {
+      "text": "Tocar el violín."
+    },
+    {
+      "text": "Mugir como vaca."
+    },
+    {
+      "text": "Comámonos la vaca de la cami."
+    },
+    {
+      "text": "Más vegana que la Isa."
+    },
+    {
+      "text": "Pasear niños con correa."
+    },
+    {
+      "text": "Un manjarate."
+    },
+    {
+      "text": "Shots de tequila."
+    },
+    {
+      "text": "La mafia rusa."
+    },
+    {
+      "text": "Ay galla atroz."
+    }
+  ],
+  "blackCards": [
+    {
+      "text": "Se dice que la triple alianza perdió debido a una sobredosis de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "De acuerdo a científicos, inhalar _____ produce _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Isabella ha sido detenida debido a un tráfico de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El Coronavirus fue creado para _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Se dice que usar _____ es mejor que usar tampones.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El ingrediente secreto de los falafels de la Isa es _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "La isa se pasa la vida _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El mayor miedo de la Isa es ver un/a _____ en _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "La isa tiene wet dreams con _____ sobre _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "La comida más sexy según la isa son los _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Querida Isa, he tenido problemas con _____ y necesito consejos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Cuando Isabella sea presidenta, va a crear un departamento de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "En el día se llama Isabella, pero en las noches le dicen _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Para conmemorar los 91 años del colegio, la estatua de John Jackson será reemplazada por _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Se dice que en Patitas se juntan a realizar _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Me encanta cuando la Isa prepara _____ relleno(s) de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El zodiacal chileno de la Isa es _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Isabella se excita si le susurras al oído: _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El mayor trauma de mi niñez fue descubrir que _____ en verdad era _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Siempre me pasa lo mismo. Nunca puedo diferenciar _____ con _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Si hubiese sabido que la vida se gana a punta de _____, no hubiera perdido el tiempo estudiando.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Es poco sabido que Flossy Possie en las pijamadas se juntan a _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Aquí yace Isabella. Gran hija, amiga y amante de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "A la Isa le encanta sentir _____ cuando despierta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Se dice que la triple alianza perdió debido a una sobredosis de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "De acuerdo a científicos, inhalar _____ produce _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Isabella ha sido detenida debido a un tráfico de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El Coronavirus fue creado para _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Se dice que usar _____ es mejor que usar tampones.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El ingrediente secreto de los falafels de la Isa es _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "La isa se pasa la vida _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El mayor miedo de la Isa es ver un/a _____ en _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "La isa tiene wet dreams con _____ sobre _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "La comida más sexy según la isa son los _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Querida Isa, he tenido problemas con _____ y necesito consejos.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Cuando Isabella sea presidenta, va a crear un departamento de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "En el día se llama Isabella, pero en las noches le dicen _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Para conmemorar los 91 años del colegio, la estatua de John Jackson será reemplazada por _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Se dice que en Patitas se juntan a realizar _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Me encanta cuando la Isa prepara _____ relleno(s) de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El zodiacal chileno de la Isa es _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Isabella se excita si le susurras al oído: _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El mayor trauma de mi niñez fue descubrir que _____ en verdad era _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Siempre me pasa lo mismo. Nunca puedo diferenciar _____ con _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Si hubiese sabido que la vida se gana a punta de _____, no hubiera perdido el tiempo estudiando.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "Es poco sabido que Flossy Possie en las pijamadas se juntan a _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Aquí yace Isabella. Gran hija, amiga y amante de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "A la Isa le encanta sentir _____ cuando despierta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "En su foto de tinder Isabella aparece con _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Más güeno que _____ con palta.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "¡Esto es una dictadura! No puedo _____ libremente.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Siempre llevo _____ en caso de emergencias.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Dado los recientes eventos, el colegio ha prohibido _____ en el quad.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "No puedo creer que cuando entré a mi pieza, vi a la Isa con _____ en mi cama.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Mi profesora de yoga me enseñó una posición que la llama: _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Cuando no hay nadie en casa, Isabella se va al baño a ver tutoriales de como _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Para mantenerse calentita en el invierno, Isa hecha _____ a la chimenea.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Toda buena historia comienza con _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "¡Feliz cumpleaños Isa! Espero que tu día esté lleno de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "_____ es lo único que la Isa usa para limpiarse el poto.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "La vida de Isabella está arruinada por un círculo vicioso de _____ y _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "El otro día tuve un bello sueño donde yo era _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "La dictadura comunista  quiere _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Techar quiere fomentar la relación con _____ para mejorar la convivencia escolar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Como presidenta, Isabella creará una ley para legalizar el uso de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Ojalá que nadie se entere que la Isa tiene encerrado _____ en el subterráneo.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Describre a Isa en una frase: _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "_____, aaaaaah … un manjar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "_____ te lleva fácilmente a _____.",
+      "draw": 0,
+      "pick": 2
+    },
+    {
+      "text": "La Isa huele a _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El tema del debate va a ser de _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Tu, yo, _____ grrrrrrrr… Piénsalo",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Estimada Isabella,  le informamos que la Miss Irene ha denegado su petición sobre _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Incorporar _____ al instituto escolar.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Si no viviste _____ cuando chico. No tuviste infancia.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Isabella es una mujer simple, si ve _____ le da like.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Desde que la Isa comenzó a _____ perdió el control de su vida.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "El placer culpable de la isa es _____.",
+      "draw": 0,
+      "pick": 1
+    },
+    {
+      "text": "Azucar, flores y muchos colores. Pero el profesor agregó accidentalmente _____, y así nació la isa.",
+      "draw": 0,
+      "pick": 1
+    }
+  ]
+ } 
+}
