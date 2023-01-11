@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "cli-table": "^0.3.1",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "dotenv": "^2.0.0",
     "express": "^4.14.0",
     "mongodb": "^2.2.11",
